@@ -10,3 +10,5 @@ public class Exercicio6 {
 
 	System.out.println("Cánto quere que mida de alto? ");
         alto = sc.nextInt();
+	System.out.println("Cánto quere que mida de ancho? ");
+        ancho = sc.nextInt();
