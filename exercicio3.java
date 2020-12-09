@@ -7,3 +7,6 @@ public class Exercicio6 {
         int alto;
         int ancho;
         Scanner sc = new Scanner(System.in);
+
+	System.out.println("Cánto quere que mida de alto? ");
+        alto = sc.nextInt();
